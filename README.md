@@ -319,10 +319,10 @@ Machine Learning application that recommends crops based on soil and weather con
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Dileep2609&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=Dileep2609&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2609&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2609&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -341,17 +341,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2609&l
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dileep2609&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dileep2609&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true"/>
+
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dileep2609&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 # 💻 Coding Profiles
